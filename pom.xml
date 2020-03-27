@@ -159,10 +159,10 @@
 	</developers>
 
 	<scm>
-		<connection>scm:git:git://github.com/fiji/jep</connection>
-		<developerConnection>scm:git:git@github.com:fiji/jep</developerConnection>
+		<connection>scm:git:git://github.com/scijava/jep</connection>
+		<developerConnection>scm:git:git@github.com:scijava/jep</developerConnection>
 		<tag>HEAD</tag>
-		<url>https://github.com/fiji/jep</url>
+		<url>https://github.com/scijava/jep</url>
 	</scm>
 
 	<repositories>
